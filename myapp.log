@@ -1,0 +1,16 @@
+Thu, 29 Jun 2017 14:17:45 main.py[line:16] DEBUG 准备开始一个应用
+Thu, 29 Jun 2017 14:17:45 _internal.py[line:87] INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+Thu, 29 Jun 2017 14:17:56 main.py[line:7] DEBUG 接收了一个请求
+Thu, 29 Jun 2017 14:17:56 _internal.py[line:87] INFO 127.0.0.1 - - [29/Jun/2017 14:17:56] "GET /hello HTTP/1.1" 200 -
+Thu, 29 Jun 2017 14:20:44 main.py[line:7] DEBUG 接收了一个请求
+Thu, 29 Jun 2017 14:20:44 _internal.py[line:87] INFO 127.0.0.1 - - [29/Jun/2017 14:20:44] "GET /hello HTTP/1.1" 200 -
+Thu, 29 Jun 2017 14:20:45 main.py[line:7] DEBUG 接收了一个请求
+Thu, 29 Jun 2017 14:20:45 _internal.py[line:87] INFO 127.0.0.1 - - [29/Jun/2017 14:20:45] "GET /hello HTTP/1.1" 200 -
+Thu, 29 Jun 2017 14:22:48 main.py[line:17] DEBUG 准备开始一个应用
+Thu, 29 Jun 2017 14:22:48 _internal.py[line:87] INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+Thu, 29 Jun 2017 14:22:52 main.py[line:8] DEBUG 接收了一个请求
+Thu, 29 Jun 2017 14:22:52 _internal.py[line:87] INFO 127.0.0.1 - - [29/Jun/2017 14:22:52] "GET /hello HTTP/1.1" 200 -
+Thu, 29 Jun 2017 14:23:39 main.py[line:16] DEBUG 准备开始一个应用
+Thu, 29 Jun 2017 14:23:39 _internal.py[line:87] INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+Thu, 29 Jun 2017 14:50:55 main.py[line:15] INFO 准备开始一个应用
+Thu, 29 Jun 2017 14:50:55 _internal.py[line:87] INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
